@@ -33,4 +33,4 @@ def organisefile(folder_path):
 
 folder_path = input('Enter folder path: ')
 organisefile(folder_path)
-# All code is written by me , except comments .
+# NOTE: All code is written by me , except comments .
